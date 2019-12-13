@@ -6,7 +6,7 @@ This is a python script that uses the selenium module and chromedriver to regist
 ### run the python script in your terminal: 
 `python auto_register.py`
 
-You should be greeted with this page
+You should be greeted with this menu
 ![](https://i.imgur.com/47kE3E8.png)
 
 ### Input your handle, email and password
