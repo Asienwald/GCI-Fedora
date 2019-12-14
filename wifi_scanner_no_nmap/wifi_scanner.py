@@ -1,17 +1,12 @@
 #!/anaconda3/bin/python
-# pip3 install python-nmap
-# pip3 install getmac
 import socket
 import re
-from pythonping import ping
 import subprocess, os
 import platform
 from ipaddress import ip_network, IPv4Network, IPv4Address, ip_address
 import time
 from threading import Lock, Thread
-import datetime as dt
 from getmac import get_mac_address
-
 
 
 def scan_network(target_net: IPv4Network):
