@@ -1,5 +1,5 @@
-# Reverse DNS Lookup
-Python script to do a reverse DNS lookup on provided input.
+# Reverse WhoIs Lookup
+Python script to do a reverse DNS lookup on provided input using https://viewdns.info
 
 ![](https://i.imgur.com/VUIHWoE.png)
 
